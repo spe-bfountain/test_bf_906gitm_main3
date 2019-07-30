@@ -1,0 +1,4 @@
+[submodule "dry"]
+	path = dry
+	url = https://github.com/spe-bfountain/test_bf_906gitm_common.git
+	branch = master
